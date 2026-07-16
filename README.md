@@ -13,4 +13,4 @@ house_price_production_ready.csv:
 The final, clean data file that is automatically created after the script runs successfully without errors.
 
 README.md: 
-The project documentation file that explains how the code works, the folder structure, and how to run the script.
+The project documentation file that explains how the code worksa and the folder structure.

@@ -1,0 +1,4 @@
+Model,Precision,Recall,ROC_AUC,True_Positives,False_Positives,True_Negatives,False_Negatives
+Logistic Regression,0.1353,0.8571,0.9386,18,115,7839,3
+Random Forest,0.9474,0.8571,0.9722,18,1,7953,3
+Best Tuned Random Forest,0.9474,0.8571,0.9722,18,1,7953,3
